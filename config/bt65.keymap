@@ -36,7 +36,7 @@
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  &none &trans &trans &trans
 				&trans &trans  &trans              &trans                            &trans   &trans   &none &trans &trans &trans
 			>;
-			sensor-bindings = <&inc_dec_kp C_AC_ZOOM_IN C_AC_ZOOM_OUT>;
+			sensor-bindings = <&inc_dec_kp C_REWIND C_FAST_FORWARD>;
 		};
 	};
 };
